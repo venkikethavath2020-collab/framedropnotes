@@ -263,8 +263,6 @@ R2_PUBLIC_HOST=cdn-dev.framedrops.in
 
 - `R2_PUBLIC_HOST` has **no `https://` prefix** — code prepends it
 - Don't set `R2_ENDPOINT` — code derives it from `R2_ACCOUNT_ID`
-- `STORAGE_PROVIDER=cloudinary` will switch back to Cloudinary without code
-  changes — this is the rollback path if R2 misbehaves
 
 Restart backend after editing `.env`.
 
@@ -385,8 +383,6 @@ Realistic first-year cost: **<₹1,500/year** at expected scale.
 
 - [ ] Set up `framedropstorage-staging` + `cdn-staging.framedrops.in` when staging
       environment is needed
-- [ ] Switch `STORAGE_PROVIDER=cloudinary` → `r2` in production env vars when
-      production R2 is verified
 - [ ] Set up CloudWatch / Cloudflare Analytics alerts on:
       - Worker 5xx rate
       - R2 reconciliation worker miss-rate alerts
