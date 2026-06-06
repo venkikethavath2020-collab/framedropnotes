@@ -1,0 +1,50 @@
+==============================================================================
+FEATURE: Pricing (per CLIENT, not per album)  CHANNEL: YouTube Shorts (9:16)
+==============================================================================
+KEY MESSAGE: pay per CLIENT (unlimited albums), in rupees, no subscription.
+Each SHORT = 3 vertical 9:16 frames (Cover → Feature → CTA). Footer = website
+only. Brand + MASCOT: README.
+
+Shared frame line:
+"Vertical 9:16 frame for Framedrops (Indian photography SaaS). Palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white. Deep purple-to-indigo gradient
+bg with bokeh. 3D Pixar-style mascot + 3D icons. Empty space top + bottom for
+on-screen text. No text in the image. MASCOT = cheerful young Indian man, white
+hoodie with small orange camera logo, DSLR."
+
+------------------------------------------------------------------------------
+SHORT 1 — "You're NOT paying per album"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Worried you pay per album?"
+  Feature (3-10s): "One client = unlimited albums = ONE payment."
+  CTA (10-15s):  "See pricing → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot looking concerned at floating album
+cards each with a small price tag; a worried expression.
+FRAME 2 (Feature): <shared frame line> Mascot relieved and smiling as the album
+cards group into ONE glowing client folder with a single rupee coin; thumbs-up.
+FRAME 3 (CTA): <shared frame line> Mascot confident beside a clean price card;
+bottom space for CTA + website.
+
+------------------------------------------------------------------------------
+SHORT 2 — "Your first client is free"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Try before you pay a rupee."
+  Feature (3-10s): "First client free — 3,000 photos, 30 days."
+  CTA (10-15s):  "Start free → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot curious, holding a phone with a
+branded gallery preview.
+FRAME 2 (Feature): <shared frame line> Mascot celebrating beside a large 3D
+"FREE" ribbon; floating rupee coins and a calendar icon; confetti.
+FRAME 3 (CTA): <shared frame line> Mascot thumbs-up; bottom space for CTA +
+website.
+
+==============================================================================
+CAPTION:
+"No per-album games. One client = unlimited albums = one payment, in rupees, no
+subscription — and your first client is free. www.framedrops.in
+#photographypricing #weddingphotography #india #framedrops"
+==============================================================================

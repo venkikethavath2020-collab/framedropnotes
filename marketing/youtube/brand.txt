@@ -1,0 +1,54 @@
+==============================================================================
+FEATURE: Brand / General                CHANNEL: YouTube Shorts (9:16 vertical)
+==============================================================================
+General brand Shorts — intro the platform / fill the calendar. Each SHORT = 3
+vertical 9:16 frames (Cover → Feature → CTA). Footer = website only.
+Brand + MASCOT: README.
+
+Shared frame line:
+"Vertical 9:16 frame for Framedrops (Indian photography SaaS). Palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white. Deep purple-to-indigo gradient
+bg with bokeh. 3D Pixar-style mascot + 3D icons. Empty space top + bottom for
+on-screen text. No text in the image. MASCOT = cheerful young Indian man, white
+hoodie with small orange camera logo, DSLR."
+
+------------------------------------------------------------------------------
+SHORT 1 — "One app to run your photo business"  (≈20s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Running your studio across 5 apps?"
+  Beat (3-8s):   "Agreements. Galleries. Selection."
+  Beat (8-14s):  "Payments. Payouts. All in one."
+  CTA (14-20s):  "Get started free → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot juggling several floating app icons,
+slightly overwhelmed but smiling.
+FRAME 2 (Feature): <shared frame line> Mascot confident in the center, a neat
+ring of 3D feature icons around him: agreement document, gallery, heart, rupee,
+wallet, shield.
+FRAME 3 (CTA): <shared frame line> Mascot thumbs-up, the icon ring glowing;
+bottom space for CTA + website.
+
+------------------------------------------------------------------------------
+SHORT 2 — "Before vs After Framedrops"  (≈18s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Before Framedrops…"
+  Beat (3-9s):   "Drive links. No contract. Chasing payment."
+  Beat (9-15s):  "After: one link, signed agreement, paid."
+  CTA (15-18s):  "Make the switch → www.framedrops.in"
+
+FRAME 1 (Before): <shared frame line> Stressed mascot surrounded by messy red-
+accent icons: tangled Drive links, WhatsApp chats, torn contract, storage-full.
+FRAME 2 (After): <shared frame line> Same mascot happy and relaxed, clean purple/
+green icons: one branded gallery, signed agreement with green check, wallet with
+rupee coins.
+FRAME 3 (CTA): <shared frame line> Mascot confident thumbs-up; bottom space for
+CTA + website.
+
+==============================================================================
+CAPTION:
+"Bookings, galleries, agreements, payments — one app, built for Indian
+photographers. From Drive-link chaos to one clean workflow. www.framedrops.in
+#photographer #weddingphotographyindia #framedrops #madeinindia"
+==============================================================================

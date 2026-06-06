@@ -1,0 +1,102 @@
+==============================================================================
+FEATURE: Client Galleries / Photo Delivery            CHANNEL: Instagram 1:1
+==============================================================================
+Copy ONE prompt, generate, retype text cleanly in Canva. Footer = website only.
+Brand system & MASCOT block: see marketing/README.md.
+Every prompt assumes: "1:1 square infographic for Framedrops; palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white; white-to-light-purple dotted
+gradient bg; 3D Pixar-style mascot + 3D icons; top-left Framedrops logo; bottom
+purple footer with logo + 'POWERED BY FRAMEDROPS.' + yellow 'Professional.
+Transparent. Reliable.' + white CTA button + globe icon 'www.framedrops.in'."
+
+------------------------------------------------------------------------------
+POSTER 1 — Drive alternative (pain)
+------------------------------------------------------------------------------
+HEADLINE: "STILL SENDING PHOTOS" / "ON GOOGLE DRIVE?"
+CTA: "DELIVER LIKE A PRO →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for Framedrops (Indian
+photography SaaS). Palette deep purple #5B2E91, golden yellow #F5A623, alert red
+#E1352C, white; white-to-light-purple gradient with dotted texture; modern flat
+infographic with a 3D Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo (yellow camera icon, "Frame" black "drops" yellow,
+"Smart Photo Services" tagline).
+HEADLINE two-tone: "STILL SENDING PHOTOS" black, "ON GOOGLE DRIVE?" purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot — cheerful young Indian
+man, brown spiky hair, white hoodie with a small orange camera logo, dark grey
+cargo pants — looking frustrated at a laptop showing a broken/cluttered file
+list; small stress doodles above his head; a DSLR on the desk.
+LEFT MID — three white speech-bubble cards each with a red X: "'Link expired.'",
+"'Storage full.'", "'Which folder again?'"
+RED ALERT BAR: warning triangle + white text "Drive links make you look amateur."
+THE SOLUTION block (right): purple tab "THE SOLUTION", white card with a 3D
+branded-gallery-on-phone icon + text "Share one beautiful branded gallery link
+with Framedrops — fast, private, on your studio brand."
+FEATURE ICON ROW (5 purple circles + labels): "ONE LINK" (link), "YOUR BRAND"
+(palette), "FAST CDN" (lightning), "PRIVATE" (lock), "MOBILE-READY" (phone).
+YELLOW CTA BAR: purple checkmark + bold "ONE LINK. FULLY BRANDED." + small icons
+"Looks Pro", "Loads Fast", "Always Private".
+PURPLE FOOTER: logo left, "POWERED BY FRAMEDROPS." white, yellow "Professional.
+Transparent. Reliable.", white CTA button "DELIVER LIKE A PRO →", globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 2 — Branded gallery (premium)
+------------------------------------------------------------------------------
+HEADLINE: "EVERY LINK YOU SEND" / "FEELS LIKE YOUR STUDIO."
+CTA: "BRAND YOUR GALLERIES →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster. Palette purple #5B2E91,
+yellow #F5A623, red #E1352C, white; white-to-light-purple dotted gradient bg; 3D
+Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "EVERY LINK YOU SEND" black, "FEELS LIKE YOUR STUDIO." purple.
+CENTER-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man,
+white hoodie + orange camera logo, DSLR in hand) proudly presenting a glowing
+phone showing a clean branded photo gallery with the studio name and logo on top.
+LEFT MID — a white card "Your studio name, logo & colours on every gallery your
+clients open."
+FEATURE ICON ROW (4 purple circles + labels): "YOUR LOGO" (image), "YOUR COLOURS"
+(palette), "WATERMARK" (shield), "CUSTOM COVER" (photo-frame).
+YELLOW CTA BAR: purple checkmark + bold "YOUR BRAND, FRONT AND CENTER." + icons
+"Memorable", "Trusted", "Professional".
+PURPLE FOOTER as defined; white CTA button "BRAND YOUR GALLERIES →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 3 — Bulk upload, thousands of photos
+------------------------------------------------------------------------------
+HEADLINE: "3,000 WEDDING PHOTOS?" / "UPLOADED IN ONE GO."
+CTA: "TRY IT FREE →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster. Palette purple #5B2E91,
+yellow #F5A623, red #E1352C, white; white-to-light-purple dotted gradient bg; 3D
+Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "3,000 WEDDING PHOTOS?" black, "UPLOADED IN ONE GO." purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) looking impressed and relaxed as a big stream of 3D
+photo thumbnails flows into a glowing upload cloud icon; a DSLR nearby.
+CENTER — white card "Drag in a whole event. Photos compress in your browser and
+upload to a fast CDN — your originals never leave your computer."
+FEATURE ICON ROW (4 purple circles + labels): "BULK UPLOAD" (cloud-up), "AUTO
+COMPRESS" (gauge), "FAST CDN" (lightning), "ORIGINALS STAY LOCAL" (lock-folder).
+YELLOW CTA BAR: purple checkmark + bold "BULK UPLOAD. ZERO HASSLE." + icons
+"Fast", "Secure", "Effortless".
+PURPLE FOOTER as defined; white CTA button "TRY IT FREE →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+==============================================================================
+CAPTION IDEAS
+- "Google Drive is for files. Framedrops is for photographers. One branded link,
+  fully private → www.framedrops.in"
+- "Deliver a whole wedding in one link your clients will actually love."
+Hashtags: #PhotoDelivery #ClientGallery #WeddingPhotographyIndia #FramedropsApp
+#IndianPhotographer #PhotographyBusiness
+==============================================================================

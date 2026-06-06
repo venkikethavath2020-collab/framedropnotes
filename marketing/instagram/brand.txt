@@ -1,0 +1,100 @@
+==============================================================================
+FEATURE: Brand / General (all-in-one, India-first, offer)   CHANNEL: Instagram 1:1
+==============================================================================
+General-purpose brand posters — use these to fill the calendar between feature
+posts, or to introduce Framedrops as a whole.
+
+Shared assumptions: 1:1 Framedrops infographic; palette purple #5B2E91 / yellow
+#F5A623 / red #E1352C / white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons; top-left logo; bottom purple footer (logo +
+"POWERED BY FRAMEDROPS." + yellow tagline + white CTA + globe "www.framedrops.in").
+MASCOT = young Indian man, white hoodie + orange camera logo, DSLR.
+
+------------------------------------------------------------------------------
+POSTER 1 — All-in-one (whole platform overview)
+------------------------------------------------------------------------------
+HEADLINE: "ONE APP TO RUN" / "YOUR PHOTO BUSINESS."
+CTA: "GET STARTED FREE →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for Framedrops (Indian
+photography SaaS). Palette deep purple #5B2E91, golden yellow #F5A623, alert red
+#E1352C, white; white-to-light-purple gradient with dotted texture; modern flat
+infographic with a 3D Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo (yellow camera, "Frame" black "drops" yellow, "Smart
+Photo Services").
+HEADLINE two-tone: "ONE APP TO RUN" black, "YOUR PHOTO BUSINESS." purple.
+CENTER: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo, DSLR in hand) standing confidently, surrounded by a
+neat ring of floating 3D feature icons: agreement document, photo gallery, heart
+(selection), rupee coin (payments), wallet, shield (privacy).
+FEATURE ICON ROW (5 purple circles + labels): "AGREEMENTS" (document-check),
+"GALLERIES" (images), "SELECTION" (heart), "PAYMENTS" (rupee), "PAYOUTS" (wallet).
+YELLOW CTA BAR: purple checkmark + bold "BOOK. DELIVER. GET PAID." + icons "All
+in One", "Built for India", "No Subscription".
+PURPLE FOOTER: logo left, "POWERED BY FRAMEDROPS." white, yellow "Professional.
+Transparent. Reliable.", white CTA button "GET STARTED FREE →", globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 2 — Built in India, for Indian photographers
+------------------------------------------------------------------------------
+HEADLINE: "BUILT IN INDIA." / "FOR INDIAN PHOTOGRAPHERS."
+CTA: "JOIN FRAMEDROPS →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster. Palette purple #5B2E91,
+yellow #F5A623, red #E1352C, white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons; subtle warm Indian-wedding bokeh in the far
+background.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "BUILT IN INDIA." black, "FOR INDIAN PHOTOGRAPHERS." purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) smiling warmly with a friendly namaste / welcoming
+gesture, DSLR in the other hand.
+LEFT MID — white card "Rupee pricing. English, Telugu & Hindi. WhatsApp support.
+Made for how Indian wedding & event photographers actually work."
+FEATURE ICON ROW (4 purple circles + labels): "PAY IN ₹" (rupee), "3 LANGUAGES"
+(translate), "WHATSAPP HELP" (chat), "NO SUBSCRIPTION" (calendar-cross).
+YELLOW CTA BAR: purple checkmark + bold "MADE FOR INDIA." + icons "Local",
+"Affordable", "Friendly Support".
+PURPLE FOOTER as defined; white CTA button "JOIN FRAMEDROPS →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 3 — Before vs After (transformation)
+------------------------------------------------------------------------------
+HEADLINE: "BEFORE FRAMEDROPS" / "vs AFTER."
+CTA: "MAKE THE SWITCH →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster, split into two halves.
+Palette purple #5B2E91, yellow #F5A623, red #E1352C, white; 3D Pixar-style mascot
++ 3D icons.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "BEFORE FRAMEDROPS" black (left), "vs AFTER." purple (right).
+LEFT HALF (muted, red accents) — a stressed 3D mascot version surrounded by messy
+icons: tangled Drive links, WhatsApp chats, a torn paper contract, a "storage
+full" warning. Small red X labels: "Drive links", "No contract", "Chasing
+payment".
+RIGHT HALF (bright, purple/green accents) — the same mascot happy and relaxed,
+surrounded by clean icons: one branded gallery, a signed agreement with a green
+check, a wallet with rupee coins. Small green check labels: "One branded link",
+"Signed agreement", "Paid on time".
+A vertical divider down the middle.
+YELLOW CTA BAR (bottom, full width): purple checkmark + bold "FROM CHAOS TO
+CLARITY." + icons "Organised", "Professional", "Paid".
+PURPLE FOOTER as defined; white CTA button "MAKE THE SWITCH →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+==============================================================================
+CAPTION IDEAS
+- "Bookings, galleries, agreements, payments — one app, built for India →
+  www.framedrops.in"
+- "From Drive-link chaos to one clean workflow. Make the switch."
+Hashtags: #IndianPhotographer #WeddingPhotographyIndia #PhotographyBusiness
+#FramedropsApp #PhotographyTools #MadeInIndia
+==============================================================================

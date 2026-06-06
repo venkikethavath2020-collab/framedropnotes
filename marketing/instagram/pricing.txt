@@ -1,0 +1,111 @@
+==============================================================================
+FEATURE: Pricing (per CLIENT, not per album)          CHANNEL: Instagram 1:1
+==============================================================================
+IMPORTANT MESSAGE: Framedrops charges PER CLIENT, not per album. One client can
+have unlimited albums (Mehendi, Ceremony, Reception); you pay ONCE, priced by
+their total photo count. In rupees, no subscription. These posters must kill the
+"do I pay per album?" confusion.
+
+Shared assumptions: 1:1 Framedrops infographic; palette purple #5B2E91 / yellow
+#F5A623 / red #E1352C / white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons; top-left Framedrops logo; bottom purple footer
+(logo + "POWERED BY FRAMEDROPS." + yellow tagline + white CTA + globe icon
+"www.framedrops.in"). MASCOT = young Indian man, white hoodie + orange camera
+logo, DSLR.
+
+------------------------------------------------------------------------------
+POSTER 1 — One client, unlimited albums (clears confusion)
+------------------------------------------------------------------------------
+HEADLINE: "PAYING PER ALBUM?" / "YOU SHOULDN'T BE."
+CTA: "DELIVER MORE. PAY LESS. →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for Framedrops (Indian
+photography SaaS). Palette deep purple #5B2E91, golden yellow #F5A623, alert red
+#E1352C, white; white-to-light-purple gradient with dotted texture; modern flat
+infographic with a 3D Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo (yellow camera, "Frame" black "drops" yellow, "Smart
+Photo Services").
+HEADLINE two-tone: "PAYING PER ALBUM?" black, "YOU SHOULDN'T BE." purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) smiling, relaxed, giving a confident thumbs-up, DSLR
+in the other hand.
+LEFT MID — three white speech-bubble cards each with a red X: "Charged for every
+album?", "Confusing per-folder fees?", "Costs pile up per event?"
+RED ALERT BAR: warning triangle + white text "Per-album pricing nickel-and-dimes
+you."
+THE SOLUTION block (right): purple tab "THE SOLUTION", white card showing a 3D
+icon of ONE client folder holding several album cards + text "With Framedrops you
+pay ONCE per client. Add unlimited albums — priced by total photos, never per
+album."
+FEATURE ICON ROW (5 purple circles + labels): "1 CLIENT" (person), "MANY ALBUMS"
+(stacked photos), "ONE PAYMENT" (rupee coin), "BY TOTAL PHOTOS" (image-count),
+"NO MONTHLY FEE" (calendar-cross).
+YELLOW CTA BAR: purple checkmark + bold "ONE CLIENT. UNLIMITED ALBUMS." + icons
+"Simple Pricing", "Pay in Rupees", "No Surprises".
+PURPLE FOOTER: logo left, "POWERED BY FRAMEDROPS." white, yellow "Professional.
+Transparent. Reliable.", white CTA button "DELIVER MORE. PAY LESS. →", globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 2 — Priced in rupees, no subscription
+------------------------------------------------------------------------------
+HEADLINE: "PRICED IN DOLLARS?" / "NOT HERE."
+CTA: "SEE RUPEE PRICING →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster. Palette purple #5B2E91,
+yellow #F5A623, red #E1352C, white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "PRICED IN DOLLARS?" black, "NOT HERE." purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) happily holding a big 3D rupee coin; small floating
+rupee symbols around him.
+LEFT MID — three white speech-bubble cards each with a red X: "Foreign tools
+bill in $.", "Monthly fees even in dry months.", "Pay before you even earn."
+RED ALERT BAR: warning triangle + white text "Subscriptions drain you off-season."
+THE SOLUTION block (right): purple tab "THE SOLUTION", white card + text "Pay per
+client in rupees via Razorpay — only when you deliver. No monthly fee, ever."
+FEATURE ICON ROW (4 purple circles + labels): "PAY IN ₹" (rupee), "PAY PER
+CLIENT" (person), "NO SUBSCRIPTION" (calendar-cross), "FIRST CLIENT FREE" (gift).
+YELLOW CTA BAR: purple checkmark + bold "PAY ONLY WHEN YOU DELIVER." + icons "In
+Rupees", "No Monthly Fee", "No Surprises".
+PURPLE FOOTER as defined; white CTA button "SEE RUPEE PRICING →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 3 — First client free (trial offer)
+------------------------------------------------------------------------------
+HEADLINE: "YOUR FIRST CLIENT" / "IS ON US."
+CTA: "START FREE →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster. Palette purple #5B2E91,
+yellow #F5A623, red #E1352C, white; white-to-light-purple dotted gradient with
+celebratory sparkles; 3D Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "YOUR FIRST CLIENT" black, "IS ON US." purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) celebrating, holding a glowing phone with a branded
+gallery; confetti and a 3D "FREE" ribbon around him.
+CENTER — a large 3D "FREE" badge beside a white card "Deliver your first
+client/event free — up to 3,000 photos, 30 days. No card needed to start."
+FEATURE ICON ROW (4 purple circles + labels): "1ST CLIENT FREE" (gift), "3,000
+PHOTOS" (image-stack), "30 DAYS" (calendar), "NO CARD" (card-off).
+YELLOW CTA BAR: purple checkmark + bold "RUN A REAL EVENT BEFORE YOU PAY." +
+icons "Risk-Free", "Full Features", "No Card".
+PURPLE FOOTER as defined; white CTA button "START FREE →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+==============================================================================
+CAPTION IDEAS
+- "One client = unlimited albums = ONE payment. No per-album games →
+  www.framedrops.in"
+- "Built in India, billed in rupees, no subscription. Your first client is free."
+Hashtags: #PhotographyPricing #IndianPhotographer #WeddingPhotographyIndia
+#FramedropsApp #NoSubscription #PhotographyBusiness
+==============================================================================

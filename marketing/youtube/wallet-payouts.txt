@@ -1,0 +1,49 @@
+==============================================================================
+FEATURE: Wallet & Payouts             CHANNEL: YouTube Shorts (9:16 vertical)
+==============================================================================
+Each SHORT = 3 vertical 9:16 frames (Cover → Feature → CTA). Footer = website
+only. Brand + MASCOT: README.
+
+Shared frame line:
+"Vertical 9:16 frame for Framedrops (Indian photography SaaS). Palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white. Deep purple-to-indigo gradient
+bg with bokeh. 3D Pixar-style mascot + 3D icons. Empty space top + bottom for
+on-screen text. No text in the image. MASCOT = cheerful young Indian man, white
+hoodie with small orange camera logo, DSLR."
+
+------------------------------------------------------------------------------
+SHORT 1 — "Stop chasing clients for payment"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Still chasing payments?"
+  Feature (3-10s): "Client pays → gallery unlocks → you get paid."
+  CTA (10-15s):  "Get paid → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot tired, holding a phone with overdue
+reminder bubbles; stress doodles.
+FRAME 2 (Feature): <shared frame line> A glowing locked gallery turning unlocked
+with a rupee coin; coins flow into a 3D wallet; mascot relieved, smiling.
+FRAME 3 (CTA): <shared frame line> Mascot happy beside a wallet card; bottom
+space for CTA + website.
+
+------------------------------------------------------------------------------
+SHORT 2 — "From wallet to your bank"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Where do your earnings go?"
+  Feature (3-10s): "Wallet → your bank, whenever you want."
+  CTA (10-15s):  "Track earnings → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot looking at a glowing "Wallet" card
+with a rupee balance, curious.
+FRAME 2 (Feature): <shared frame line> 3D rupee coins flowing from the wallet
+card into a 3D bank building icon; a green "Withdrawn" check; mascot delighted.
+FRAME 3 (CTA): <shared frame line> Mascot thumbs-up; bottom space for CTA +
+website.
+
+==============================================================================
+CAPTION:
+"Stop chasing clients for money. They pay, the gallery unlocks, and your earnings
+land in your wallet — withdraw to your bank anytime. www.framedrops.in
+#getpaid #photographybusiness #weddingphotography #framedrops"
+==============================================================================

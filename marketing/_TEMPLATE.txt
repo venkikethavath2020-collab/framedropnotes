@@ -1,0 +1,30 @@
+==============================================================================
+FEATURE: <feature name>          CHANNEL: Instagram (1:1)  /  YouTube (9:16)
+==============================================================================
+Copy ONE prompt block, generate, then retype all text cleanly in Canva.
+Brand system (palette, logo, mascot, footer) is in marketing/README.md.
+Website link only in the footer — NO Instagram handle.
+
+------------------------------------------------------------------------------
+POSTER 1 — <angle / hook in a few words>
+------------------------------------------------------------------------------
+HEADLINE (Canva): "<headline line 1>" / "<headline line 2>"
+SUBHEAD (Canva):  "<one-line subhead>"
+CTA (Canva):      "<button text>"  ·  www.framedrops.in
+
+PROMPT:
+<<paste-ready image generation prompt here — full layout, brand colors,
+mascot block, sections, and the literal copy spelled out>>
+
+------------------------------------------------------------------------------
+POSTER 2 — <angle>
+------------------------------------------------------------------------------
+HEADLINE: ...
+PROMPT:
+...
+
+==============================================================================
+NOTES
+- Keep the same header + purple footer on every poster (series consistency).
+- Generate mascot + 3D icons only if you want guaranteed-clean Canva text.
+==============================================================================

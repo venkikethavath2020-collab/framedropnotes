@@ -1,0 +1,50 @@
+==============================================================================
+FEATURE: Client Selection / Proofing   CHANNEL: YouTube Shorts (9:16 vertical)
+==============================================================================
+Each SHORT = 3 vertical 9:16 frames (Cover → Feature → CTA). Footer = website
+only. Brand + MASCOT: README.
+
+Shared frame line:
+"Vertical 9:16 frame for Framedrops (Indian photography SaaS). Palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white. Deep purple-to-indigo gradient
+bg with bokeh. 3D Pixar-style mascot + 3D icons. Empty space top + bottom for
+on-screen text. No text in the image. MASCOT = cheerful young Indian man, white
+hoodie with small orange camera logo, DSLR."
+
+------------------------------------------------------------------------------
+SHORT 1 — "Stop collecting photo numbers on WhatsApp"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "'Send me numbers 145, 882…'"
+  Feature (3-10s): "Clients tap the heart. You get the list."
+  CTA (10-15s):  "Try it → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot overwhelmed, surrounded by floating
+chat bubbles full of photo numbers; stress doodles.
+FRAME 2 (Feature): <shared frame line> A glowing phone where a hand taps red
+heart icons on photos; an arrow flows to a 3D dashboard card with a neat
+"Selected" list; mascot smiling and pointing.
+FRAME 3 (CTA): <shared frame line> Mascot relaxed beside the tidy shortlist card;
+bottom space for CTA + website.
+
+------------------------------------------------------------------------------
+SHORT 2 — "Proofing, finally organised"  (≈18s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Client selection = chaos?"
+  Feature (3-12s): "Favourite. Comment. Submit. All in one place."
+  CTA (12-18s):  "See how → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot tangled in messy sticky notes and
+screenshots, looking tired.
+FRAME 2 (Feature): <shared frame line> Mascot calm, presenting a phone with heart
++ comment icons on photos; floating 3D icons: heart, chat, list-check, box.
+FRAME 3 (CTA): <shared frame line> Mascot thumbs-up beside the dashboard; bottom
+space for CTA + website.
+
+==============================================================================
+CAPTION:
+"No more collecting photo numbers over WhatsApp. Clients favourite their picks,
+the shortlist comes to you. www.framedrops.in  #photoproofing #clientselection
+#weddingphotography #framedrops"
+==============================================================================

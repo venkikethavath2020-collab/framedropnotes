@@ -1,0 +1,161 @@
+==============================================================================
+FEATURE: Photography Agreements (Agreement Builder)     CHANNEL: Instagram 1:1
+==============================================================================
+Copy ONE prompt, generate, retype text cleanly in Canva. Footer = website only.
+Brand system & MASCOT block: see marketing/README.md.
+
+Shared brand line to keep in every prompt:
+"Brand palette: deep purple #5B2E91, golden yellow #F5A623, alert red #E1352C,
+white. Clean white-to-light-purple gradient background with subtle dotted
+texture. Modern flat infographic with a 3D Pixar-style mascot and 3D icons."
+
+------------------------------------------------------------------------------
+POSTER 1 — Pain: a verbal "yes" is not proof
+------------------------------------------------------------------------------
+HEADLINE: "DID THEY ACTUALLY AGREE?" / "OR JUST SAY 'OK'?"
+CTA: "CREATE AGREEMENTS. STAY PROTECTED. →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for "Framedrops", a
+photography SaaS for Indian photographers. Brand palette: deep purple #5B2E91,
+golden yellow #F5A623, alert red #E1352C, white. Clean white-to-light-purple
+gradient background with subtle dotted texture. Modern flat infographic with a
+3D Pixar-style mascot and 3D icons. Layout top to bottom:
+TOP-LEFT: Framedrops logo — yellow camera icon, wordmark "Frame" black "drops"
+yellow, "Smart Photo Services" tagline beneath.
+HEADLINE (large bold two-tone): "DID THEY ACTUALLY AGREE?" black, below it "OR
+JUST SAY 'OK'?" purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot — cheerful young Indian
+man, brown spiky hair, white hoodie with a small orange camera logo on the
+chest, dark grey cargo pants — looking worried and unsure, hand on cheek, a DSLR
+on the desk; small question-mark doodles above his head.
+LEFT MID — three white speech-bubble cards each with a red X circle: "A verbal
+yes is not proof.", "No record of what was promised.", "Disputes become your
+word vs theirs."
+RED ALERT BAR (left): red rounded bar with a warning triangle icon and bold
+white text "A spoken 'yes' won't protect you."
+THE SOLUTION block (right mid): small purple tab "THE SOLUTION", then a white
+card with a 3D document-with-signature-and-green-checkmark icon and text "Send a
+professional agreement your client signs online with Framedrops — verified with
+an email OTP."
+FEATURE ICON ROW (center, 5 purple circles, white icons + labels): "BUILD"
+(document), "SEND" (paper-plane), "E-SIGN" (pen), "OTP VERIFY" (shield-check),
+"PDF COPY" (download).
+YELLOW CTA BAR: golden-yellow rounded bar with a purple checkmark and bold text
+"SIGNED ONLINE. FULLY VERIFIED." plus three small icons + labels "Build Trust",
+"Avoid Disputes", "Stay Protected".
+PURPLE FOOTER BAR: Framedrops logo left, "POWERED BY FRAMEDROPS." white, yellow
+tagline "Professional. Transparent. Reliable.", white rounded CTA button "CREATE
+AGREEMENTS. STAY PROTECTED. →", centered bottom strip with a globe icon and
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 2 — Send. Sign. Done. (it's easy / fast)
+------------------------------------------------------------------------------
+HEADLINE: "SEND. SIGN. DONE." / "IN 3 MINUTES."
+CTA: "CREATE YOUR FIRST AGREEMENT →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for "Framedrops", a
+photography SaaS for Indian photographers. Brand palette: deep purple #5B2E91,
+golden yellow #F5A623, alert red #E1352C, white. Clean white-to-light-purple
+gradient background with subtle dotted texture. Modern flat infographic with a
+3D Pixar-style mascot and 3D icons. Layout top to bottom:
+TOP-LEFT: Framedrops logo — yellow camera icon, "Frame" black "drops" yellow,
+"Smart Photo Services" tagline.
+HEADLINE (large bold two-tone): "SEND. SIGN. DONE." black, below "IN 3 MINUTES."
+purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot — cheerful young Indian
+man, brown spiky hair, white hoodie with a small orange camera logo on the
+chest — delighted and energetic, presenting a glowing smartphone showing a
+contract with a green "Signed" checkmark stamp; DSLR on the desk.
+CENTER — a clear 3-step horizontal flow with purple circular number badges 1-2-3
+connected by a dotted line, each with a 3D icon and a short label card: STEP 1
+"Build it" (document) "Pick a template, add your terms.", STEP 2 "Send it"
+(paper-plane) "Your client gets a private link.", STEP 3 "They sign" (pen +
+green check) "Verified by OTP. Both get a PDF."
+FEATURE ICON ROW (lower-center, 4 purple circles + labels): "TEMPLATES" (grid),
+"OTP SIGN" (shield-check), "BRANDED PDF" (document-star), "AUDIT TRAIL" (clock).
+YELLOW CTA BAR: golden-yellow rounded bar with a purple checkmark and bold text
+"NO PRINTING. NO SCANNING. NO CHASING." plus icons + labels "Fast",
+"Professional", "Verified".
+PURPLE FOOTER BAR: Framedrops logo left, "POWERED BY FRAMEDROPS." white, yellow
+tagline "Professional. Transparent. Reliable.", white rounded CTA button "CREATE
+YOUR FIRST AGREEMENT →", centered strip with a globe icon and "www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 3 — Branded, multilingual PDF (premium + India-first)
+------------------------------------------------------------------------------
+HEADLINE: "A CONTRACT AS POLISHED" / "AS YOUR PHOTOS."
+CTA: "SEND PRO AGREEMENTS →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for "Framedrops", a
+photography SaaS for Indian photographers. Brand palette: deep purple #5B2E91,
+golden yellow #F5A623, alert red #E1352C, white. Clean white-to-light-purple
+gradient background with subtle dotted texture and soft gold sparkles. Modern
+flat infographic with a 3D Pixar-style mascot and 3D icons. Layout top to bottom:
+TOP-LEFT: Framedrops logo — yellow camera icon, "Frame" black "drops" yellow,
+"Smart Photo Services" tagline.
+HEADLINE (large bold two-tone): "A CONTRACT AS POLISHED" black, below "AS YOUR
+PHOTOS." purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot — cheerful young Indian
+man, white hoodie with a small orange camera logo — beaming with pride, holding
+up an elegant premium PDF document like a trophy; the PDF has a dark-purple
+branded cover with a tiny studio logo.
+CENTER — three cute floating 3D chip badges suggesting three languages (English /
+Telugu / Hindi, decorative scripts, non-literal) around the PDF; a white card
+with text "Studio-branded agreement PDF in English, Telugu & Hindi —
+auto-generated, ready to download."
+FEATURE ICON ROW (4 purple circles + labels): "YOUR BRANDING" (palette),
+"3 LANGUAGES" (translate), "AUTO PDF" (document), "BOTH GET A COPY" (people).
+YELLOW CTA BAR: golden-yellow rounded bar with a purple checkmark and bold text
+"YOUR STUDIO NAME ON EVERY PAGE." plus icons + labels "Premium", "Multilingual",
+"Instant".
+PURPLE FOOTER BAR: Framedrops logo left, "POWERED BY FRAMEDROPS." white, yellow
+tagline "Professional. Transparent. Reliable.", white rounded CTA button "SEND
+PRO AGREEMENTS →", centered strip with a globe icon and "www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 4 — 25 agreements free (the offer / CTA)
+------------------------------------------------------------------------------
+HEADLINE: "25 AGREEMENTS." / "FREE."
+CTA: "CLAIM YOUR 25 FREE →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for "Framedrops", a
+photography SaaS for Indian photographers. Brand palette: deep purple #5B2E91,
+golden yellow #F5A623, alert red #E1352C, white. Clean white-to-light-purple
+gradient background with subtle dotted texture and celebratory sparkles. Modern
+flat infographic with a 3D Pixar-style mascot and 3D icons. Layout top to bottom:
+TOP-LEFT: Framedrops logo — yellow camera icon, "Frame" black "drops" yellow,
+"Smart Photo Services" tagline.
+HEADLINE (large bold two-tone): "25 AGREEMENTS." black, below a huge "FREE." in
+golden yellow.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot — cheerful young Indian
+man, white hoodie with a small orange camera logo — celebrating happily, holding
+up a branded agreement PDF like a prize; floating 3D rupee coins and confetti.
+CENTER — a large 3D "FREE" ribbon/badge in purple and gold beside a white card:
+"Send your first 25 photography agreements at zero cost. No card required to
+start."
+FEATURE ICON ROW (4 purple circles + labels): "25 FREE" (gift), "CREDIT PACKS"
+(coin-stack), "NO SUBSCRIPTION" (calendar-cross), "PAY IN RUPEES" (rupee).
+YELLOW CTA BAR: golden-yellow rounded bar with a purple checkmark and bold text
+"START FREE. NO MONTHLY FEES." plus icons + labels "No Card Needed", "Simple
+Credits", "Cancel Anytime".
+PURPLE FOOTER BAR: Framedrops logo left, "POWERED BY FRAMEDROPS." white, yellow
+tagline "Professional. Transparent. Reliable.", white rounded CTA button "CLAIM
+YOUR 25 FREE →", centered strip with a globe icon and "www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+==============================================================================
+CAPTION IDEAS (pick one per post; website only, no IG handle in image)
+- "Stop losing clients to 'I thought that was included.' Send a signed agreement
+  in minutes. First 25 free → www.framedrops.in"
+- "Verbal yes ≠ proof. Get it signed online with OTP. www.framedrops.in"
+Hashtags: #IndianPhotographer #WeddingPhotographyIndia #PhotographyBusiness
+#FramedropsApp #PhotographyContract #StudioTools
+==============================================================================

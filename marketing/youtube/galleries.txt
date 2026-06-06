@@ -1,0 +1,51 @@
+==============================================================================
+FEATURE: Client Galleries / Delivery   CHANNEL: YouTube Shorts (9:16 vertical)
+==============================================================================
+Each SHORT = 3 vertical 9:16 frames (Cover → Feature → CTA). Generate, retype
+text in Canva, animate in CapCut. Footer = website only. Brand + MASCOT: README.
+
+Shared frame line:
+"Vertical 9:16 frame for Framedrops (Indian photography SaaS). Palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white. Deep purple-to-indigo gradient
+bg with soft bokeh. 3D Pixar-style mascot + 3D icons. Empty space top + bottom
+for on-screen text. No text in the image. MASCOT = cheerful young Indian man,
+white hoodie with small orange camera logo, DSLR."
+
+------------------------------------------------------------------------------
+SHORT 1 — "Stop sending photos on Google Drive"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Still using Google Drive?"
+  Feature (3-10s): "Share ONE branded gallery link."
+  CTA (10-15s):  "Deliver like a pro → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot frustrated at a laptop showing a
+messy file list / broken link; stress doodles above.
+FRAME 2 (Feature): <shared frame line> Mascot proudly presenting a glowing phone
+with a clean branded photo gallery (studio name on top); floating icons: link,
+palette, lock, lightning.
+FRAME 3 (CTA): <shared frame line> Mascot relaxed and confident, gallery glowing
+beside him; bottom space for CTA + website.
+
+------------------------------------------------------------------------------
+SHORT 2 — "3,000 photos, uploaded in one go"  (≈18s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "A whole wedding to deliver?"
+  Feature (3-12s): "Bulk upload. Originals stay on YOUR computer."
+  CTA (12-18s):  "Try it free → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot looking at a huge stack of 3D photo
+thumbnails, slightly overwhelmed but hopeful.
+FRAME 2 (Feature): <shared frame line> A stream of 3D photo thumbnails flowing
+into a glowing upload cloud; mascot relaxed; a small lock-folder icon labeled
+locally (decorative) showing originals stay safe.
+FRAME 3 (CTA): <shared frame line> Mascot thumbs-up beside the finished gallery;
+bottom space for CTA + website.
+
+==============================================================================
+CAPTION:
+"Google Drive is for files. Framedrops is for photographers — one branded,
+private gallery link, your originals never leave your computer. www.framedrops.in
+#photodelivery #clientgallery #weddingphotography #framedrops"
+==============================================================================

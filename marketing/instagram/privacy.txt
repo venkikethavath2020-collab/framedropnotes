@@ -1,0 +1,82 @@
+==============================================================================
+FEATURE: Privacy & Security                            CHANNEL: Instagram 1:1
+==============================================================================
+Context: Originals never leave the photographer's computer (in-browser compress,
+no server downloads of originals). Galleries use opaque private links + optional
+access codes + watermarked previews, never indexed by Google.
+
+Shared assumptions: 1:1 Framedrops infographic; palette purple #5B2E91 / yellow
+#F5A623 / red #E1352C / white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons; top-left logo; bottom purple footer (logo +
+"POWERED BY FRAMEDROPS." + yellow tagline + white CTA + globe "www.framedrops.in").
+MASCOT = young Indian man, white hoodie + orange camera logo, DSLR.
+
+------------------------------------------------------------------------------
+POSTER 1 — Originals stay on your computer
+------------------------------------------------------------------------------
+HEADLINE: "WHO ELSE CAN SEE" / "YOUR RAW FILES?"
+CTA: "KEEP CONTROL →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for Framedrops (Indian
+photography SaaS). Palette deep purple #5B2E91, golden yellow #F5A623, alert red
+#E1352C, white; white-to-light-purple gradient with dotted texture; modern flat
+infographic with a 3D Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo (yellow camera, "Frame" black "drops" yellow, "Smart
+Photo Services").
+HEADLINE two-tone: "WHO ELSE CAN SEE" black, "YOUR RAW FILES?" purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) hugging a glowing laptop/hard-drive protectively, a
+3D shield with a check floating beside him; reassured expression.
+LEFT MID — three white speech-bubble cards each with a red X: "Originals sitting
+on someone's server?", "Public links anyone can open?", "Photos showing up on
+Google?"
+RED ALERT BAR: warning triangle + white text "Your clients' privacy is your
+reputation."
+THE SOLUTION block (right): purple tab "THE SOLUTION", white card with a 3D
+lock-folder icon + text "With Framedrops your originals never leave your
+computer. Only compressed previews are shared — privately."
+FEATURE ICON ROW (5 purple circles + labels): "ORIGINALS LOCAL" (lock-folder),
+"PRIVATE LINKS" (link-lock), "ACCESS CODES" (key), "WATERMARKS" (shield),
+"NEVER INDEXED" (eye-off).
+YELLOW CTA BAR: purple checkmark + bold "PRIVATE BY DEFAULT." + icons "Your
+Files", "Your Control", "Their Privacy".
+PURPLE FOOTER: logo left, "POWERED BY FRAMEDROPS." white, yellow "Professional.
+Transparent. Reliable.", white CTA button "KEEP CONTROL →", globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 2 — Private galleries (access codes + watermarks)
+------------------------------------------------------------------------------
+HEADLINE: "GALLERIES ONLY" / "YOUR CLIENT CAN OPEN."
+CTA: "SHARE SAFELY →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster. Palette purple #5B2E91,
+yellow #F5A623, red #E1352C, white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "GALLERIES ONLY" black, "YOUR CLIENT CAN OPEN." purple.
+CENTER: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) confidently holding a phone showing a private
+gallery with a small lock + access-code field and a watermark pattern over the
+preview photos; a 3D shield-check nearby.
+LEFT MID — white card "Opaque private links, optional access codes, and
+watermarked previews. Your galleries are private by default and never indexed."
+FEATURE ICON ROW (4 purple circles + labels): "PRIVATE LINK" (link-lock),
+"ACCESS CODE" (key), "WATERMARK" (shield), "NO-INDEX" (eye-off).
+YELLOW CTA BAR: purple checkmark + bold "SHARED, NOT EXPOSED." + icons "Secure",
+"Controlled", "Professional".
+PURPLE FOOTER as defined; white CTA button "SHARE SAFELY →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+==============================================================================
+CAPTION IDEAS
+- "Your originals never leave your computer. Only you control who sees what →
+  www.framedrops.in"
+- "Private links. Access codes. Watermarks. Never indexed. That's the default."
+Hashtags: #PhotographerPrivacy #DataSecurity #IndianPhotographer #FramedropsApp
+#WeddingPhotographyIndia #ClientGallery
+==============================================================================
