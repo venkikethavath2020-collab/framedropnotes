@@ -19,7 +19,9 @@ checklists, decks, and product docs.
 │   └── EMAIL_PREVIEW.md    — how to render email templates locally
 │
 ├── product/                — product / feature documentation
-│   └── ADMIN.md            — admin portal capabilities + flows
+│   ├── ADMIN.md            — admin portal capabilities + flows
+│   ├── ALBUM_PREVIEW.md    — client flipbook album preview (frontend-only)
+│   └── AGREEMENT_BUILDER.md — contract builder + OTP signing + server PDF
 │
 └── decks/                  — investor / sales presentations
     ├── FrameDrops_Investor_Deck.pptx
