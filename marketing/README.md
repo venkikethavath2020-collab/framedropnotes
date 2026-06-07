@@ -20,16 +20,27 @@ marketing/
 ├── README.md            ← this file
 ├── _TEMPLATE.txt        ← copy this to add a new feature file
 ├── instagram/           ← 1:1 square infographic posters
-│   ├── agreements.txt
-│   ├── galleries.txt
-│   ├── selection.txt
-│   ├── pricing.txt
-│   ├── wallet-payouts.txt
-│   ├── privacy.txt
-│   └── brand.txt
+│   ├── agreements.txt       (Photography Agreements + agreement credit pricing)
+│   ├── galleries.txt        (Client Delivery / branded galleries / bulk upload)
+│   ├── selection.txt        (Smart Selection / proofing)
+│   ├── transfer.txt         (Transfer selected ORIGINALS locally — flagship)
+│   ├── calendar.txt         (Calendar & Events / reminders)
+│   ├── language.txt         (Multi-language galleries EN/TE/HI)
+│   ├── dashboard.txt        (Dashboard analytics + Client management)
+│   ├── pricing.txt          (Per-CLIENT pricing — clears per-album confusion)
+│   ├── wallet-payouts.txt   (Client-pays flow / wallet / withdrawals)
+│   ├── privacy.txt          (Privacy & security / originals stay local)
+│   └── brand.txt            (All-in-one / India-first / before-vs-after)
 └── youtube/             ← 9:16 vertical Shorts frames (cover → feature → CTA)
-    └── (same 7 files)
+    └── (same 11 files)
 ```
+
+Feature coverage maps to the landing page (FeaturesSection): Client Management →
+dashboard.txt · Client Delivery → galleries.txt · Album Organization → galleries
++ dashboard · Smart Selection → selection.txt · Studio Branding → galleries +
+privacy · Payments & Wallet → wallet-payouts + pricing · Agreements →
+agreements.txt · Calendar → calendar.txt · Dashboard Analytics → dashboard.txt ·
+Multi-language → language.txt · Transfer Originals → transfer.txt.
 
 ## BRAND SYSTEM — keep identical across every poster (this is what makes it a series)
 

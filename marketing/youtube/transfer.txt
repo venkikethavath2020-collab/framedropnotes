@@ -1,0 +1,53 @@
+==============================================================================
+FEATURE: Transfer Selected Originals    CHANNEL: YouTube Shorts (9:16 vertical)
+==============================================================================
+FLAGSHIP differentiator: after the client picks favourites, Framedrops copies the
+matching ORIGINAL files from the photographer's source folder to a delivery
+folder — locally, in seconds, no upload. Each SHORT = 3 frames (Cover→Feature→CTA).
+Footer = website only. Brand + MASCOT: README.
+
+Shared frame line:
+"Vertical 9:16 frame for Framedrops (Indian photography SaaS). Palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white. Deep purple-to-indigo gradient bg
+with bokeh. 3D Pixar-style mascot + 3D icons. Empty space top + bottom for
+on-screen text. No text in the image. MASCOT = cheerful young Indian man, white
+hoodie with small orange camera logo, DSLR."
+
+------------------------------------------------------------------------------
+SHORT 1 — "Stop hunting for selected finals"  (≈18s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Finding 200 finals by filename?"
+  Feature (3-12s): "Client picks → originals copied to a delivery folder. Locally. Seconds."
+  CTA (12-18s):  "Save hours → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot exhausted at a laptop, a huge messy
+pile of 3D photo files, a clock showing wasted time; stress doodles.
+FRAME 2 (Feature): <shared frame line> Chosen photos with red hearts flow from a
+3D "Source Folder" into a 3D "Delivery Folder" with a lightning spark; a small
+cloud-off icon shows it stays local; mascot delighted and relaxed.
+FRAME 3 (CTA): <shared frame line> Mascot thumbs-up beside the full delivery
+folder; bottom space for CTA + website.
+
+------------------------------------------------------------------------------
+SHORT 2 — "No cloud. No quality loss."  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Re-uploading full-res files?"
+  Feature (3-10s): "Framedrops copies originals between your folders — full quality, no upload."
+  CTA (10-15s):  "Deliver in seconds → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot frustrated watching a slow upload bar
+to a cloud with a red X.
+FRAME 2 (Feature): <shared frame line> A folder-to-folder copy animation on a
+laptop with a lightning spark and an "HD / full-res" badge; cloud-off icon;
+mascot impressed.
+FRAME 3 (CTA): <shared frame line> Mascot confident thumbs-up; bottom space for
+CTA + website.
+
+==============================================================================
+CAPTION:
+"Client picks the photos. Framedrops copies the originals between your folders in
+seconds — no cloud, no quality loss. www.framedrops.in
+#photographyworkflow #photodelivery #weddingphotography #framedrops"
+==============================================================================

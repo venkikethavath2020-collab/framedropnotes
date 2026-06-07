@@ -1,0 +1,50 @@
+==============================================================================
+FEATURE: Dashboard Analytics + Client Management  CHANNEL: YouTube Shorts (9:16)
+==============================================================================
+Client Management (all clients/albums/payments/events in one place) + Dashboard
+Analytics (bar & doughnut charts). Each SHORT = 3 frames (Cover→Feature→CTA).
+Footer = website only. Brand + MASCOT: README.
+
+Shared frame line:
+"Vertical 9:16 frame for Framedrops (Indian photography SaaS). Palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white. Deep purple-to-indigo gradient bg
+with bokeh. 3D Pixar-style mascot + 3D icons. Empty space top + bottom for
+on-screen text. No text in the image. MASCOT = cheerful young Indian man, white
+hoodie with small orange camera logo, DSLR."
+
+------------------------------------------------------------------------------
+SHORT 1 — "Client info scattered across apps?"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Albums in Drive, chats in WhatsApp?"
+  Feature (3-10s): "Every client — albums, payments, events — one profile."
+  CTA (10-15s):  "Get organised → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot juggling floating notes, phone, diary
+and chat bubbles full of client info; stress doodles.
+FRAME 2 (Feature): <shared frame line> Mascot calm, presenting a clean 3D client
+profile card showing linked albums, a rupee payment history and an events list.
+FRAME 3 (CTA): <shared frame line> Mascot thumbs-up; bottom space for CTA +
+website.
+
+------------------------------------------------------------------------------
+SHORT 2 — "Your whole business, one dashboard"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Guessing how your studio's doing?"
+  Feature (3-10s): "Charts for albums, clients & revenue — at a glance."
+  CTA (10-15s):  "See your numbers → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot puzzled with a question mark over a
+blank chart.
+FRAME 2 (Feature): <shared frame line> Mascot smiling, gesturing at a glowing 3D
+dashboard with colourful bar charts, a doughnut chart and stat cards.
+FRAME 3 (CTA): <shared frame line> Mascot confident thumbs-up; bottom space for
+CTA + website.
+
+==============================================================================
+CAPTION:
+"Every client — albums, payments, upcoming events — on one profile, plus charts
+that show how your studio's doing. www.framedrops.in
+#photographybusiness #studiomanagement #indianphotographer #framedrops"
+==============================================================================

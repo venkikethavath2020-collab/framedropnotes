@@ -1,0 +1,83 @@
+==============================================================================
+FEATURE: Dashboard Analytics + Client Management       CHANNEL: Instagram 1:1
+==============================================================================
+Context: Two related landing features.
+  - Client Management: every client in one place — linked albums, payment
+    history, upcoming events.
+  - Dashboard Analytics: bar & doughnut charts for albums, clients, and status
+    distribution; see your business at a glance.
+
+Shared assumptions: 1:1 Framedrops infographic; palette purple #5B2E91 / yellow
+#F5A623 / red #E1352C / white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons; top-left logo; bottom purple footer (logo +
+"POWERED BY FRAMEDROPS." + yellow tagline + white CTA + globe "www.framedrops.in").
+MASCOT = young Indian man, white hoodie + orange camera logo, DSLR.
+
+------------------------------------------------------------------------------
+POSTER 1 — Client Management: every client in one place
+------------------------------------------------------------------------------
+HEADLINE: "CLIENT DETAILS SCATTERED" / "ACROSS 5 APPS?"
+CTA: "ORGANISE YOUR CLIENTS →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for Framedrops (Indian
+photography SaaS). Palette deep purple #5B2E91, golden yellow #F5A623, alert red
+#E1352C, white; white-to-light-purple gradient with dotted texture; modern flat
+infographic with a 3D Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo (yellow camera, "Frame" black "drops" yellow, "Smart
+Photo Services").
+HEADLINE two-tone: "CLIENT DETAILS SCATTERED" black, "ACROSS 5 APPS?" purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) confused, juggling floating notes, a phone, a diary
+and chat bubbles with client info; stress doodles above.
+LEFT MID — three white speech-bubble cards each with a red X: "Albums in Drive,
+chats in WhatsApp.", "Who paid? Who didn't?", "When's their next event?"
+RED ALERT BAR: warning triangle + white text "Scattered client info loses you
+money."
+THE SOLUTION block (right): purple tab "THE SOLUTION", white card with a 3D
+client-profile-card icon + text "Every client in one place — their albums,
+payment history and upcoming events on a single profile."
+FEATURE ICON ROW (5 purple circles + labels): "CLIENT PROFILES" (person), "LINKED
+ALBUMS" (images), "PAYMENT HISTORY" (rupee), "UPCOMING EVENTS" (calendar),
+"ALL IN ONE" (layout).
+YELLOW CTA BAR: purple checkmark + bold "EVERY CLIENT. ONE PLACE." + icons
+"Organised", "Clear", "Always Handy".
+PURPLE FOOTER: logo left, "POWERED BY FRAMEDROPS." white, yellow "Professional.
+Transparent. Reliable.", white CTA button "ORGANISE YOUR CLIENTS →", globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 2 — Dashboard analytics: your business at a glance
+------------------------------------------------------------------------------
+HEADLINE: "YOUR WHOLE BUSINESS." / "ONE DASHBOARD."
+CTA: "SEE YOUR NUMBERS →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster. Palette purple #5B2E91,
+yellow #F5A623, red #E1352C, white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "YOUR WHOLE BUSINESS." black, "ONE DASHBOARD." purple.
+CENTER: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) smiling and gesturing at a glowing 3D dashboard with
+colourful bar charts and a doughnut chart, plus stat cards (albums, clients,
+revenue).
+LEFT MID — white card "Bar and doughnut charts for albums, clients and status —
+see how your studio is doing at a glance."
+FEATURE ICON ROW (4 purple circles + labels): "ALBUM STATS" (bar-chart), "CLIENT
+STATS" (people), "STATUS MIX" (doughnut-chart), "AT A GLANCE" (eye).
+YELLOW CTA BAR: purple checkmark + bold "KNOW YOUR NUMBERS." + icons "Clear",
+"Visual", "Actionable".
+PURPLE FOOTER as defined; white CTA button "SEE YOUR NUMBERS →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+==============================================================================
+CAPTION IDEAS
+- "Every client — albums, payments, upcoming events — on one profile. Plus charts
+  that show how your studio's doing. www.framedrops.in"
+- "Stop guessing. See your whole photography business at a glance."
+Hashtags: #PhotographyBusiness #StudioManagement #IndianPhotographer
+#FramedropsApp #ClientManagement #PhotographyTools
+==============================================================================

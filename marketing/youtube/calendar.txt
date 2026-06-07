@@ -1,0 +1,49 @@
+==============================================================================
+FEATURE: Calendar & Events              CHANNEL: YouTube Shorts (9:16 vertical)
+==============================================================================
+Each SHORT = 3 frames (Cover→Feature→CTA). Footer = website only.
+Brand + MASCOT: README.
+
+Shared frame line:
+"Vertical 9:16 frame for Framedrops (Indian photography SaaS). Palette purple
+#5B2E91 / yellow #F5A623 / red #E1352C / white. Deep purple-to-indigo gradient bg
+with bokeh. 3D Pixar-style mascot + 3D icons. Empty space top + bottom for
+on-screen text. No text in the image. MASCOT = cheerful young Indian man, white
+hoodie with small orange camera logo, DSLR."
+
+------------------------------------------------------------------------------
+SHORT 1 — "Double-booked again?"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Two weddings, same date?"
+  Feature (3-10s): "Plan shoots, deliveries & meetings — with reminders."
+  CTA (10-15s):  "Plan your season → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot panicked holding two cameras, a messy
+3D calendar with clashing events behind; stress doodles.
+FRAME 2 (Feature): <shared frame line> Mascot relaxed pointing at a clean glowing
+3D calendar with colour-coded events and a reminder bell popping up.
+FRAME 3 (CTA): <shared frame line> Mascot thumbs-up beside the tidy calendar;
+bottom space for CTA + website.
+
+------------------------------------------------------------------------------
+SHORT 2 — "Run a busy season, calmly"  (≈15s)
+------------------------------------------------------------------------------
+ON-SCREEN TEXT FLOW:
+  Cover (0-3s):  "Wedding season = chaos?"
+  Feature (3-10s): "Shoots, deliveries, meetings & notes — all in one calendar."
+  CTA (10-15s):  "Stay on schedule → www.framedrops.in"
+
+FRAME 1 (Cover): <shared frame line> Mascot overwhelmed by floating sticky notes
+and reminders.
+FRAME 2 (Feature): <shared frame line> Mascot calm, a glowing 3D calendar with
+neat events; floating icons: camera, box, people, bell.
+FRAME 3 (CTA): <shared frame line> Mascot confident thumbs-up; bottom space for
+CTA + website.
+
+==============================================================================
+CAPTION:
+"Wedding season without the chaos. Plan every shoot, delivery and meeting in one
+calendar with reminders. www.framedrops.in
+#photographybusiness #weddingseason #indianphotographer #framedrops"
+==============================================================================

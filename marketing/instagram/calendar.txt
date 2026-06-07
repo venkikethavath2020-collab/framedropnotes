@@ -1,0 +1,77 @@
+==============================================================================
+FEATURE: Calendar & Events                            CHANNEL: Instagram 1:1
+==============================================================================
+Context: Plan shoots, deliveries and client meetings on a built-in calendar,
+add notes to any date, and get reminders so nothing slips during a busy season.
+
+Shared assumptions: 1:1 Framedrops infographic; palette purple #5B2E91 / yellow
+#F5A623 / red #E1352C / white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons; top-left logo; bottom purple footer (logo +
+"POWERED BY FRAMEDROPS." + yellow tagline + white CTA + globe "www.framedrops.in").
+MASCOT = young Indian man, white hoodie + orange camera logo, DSLR.
+
+------------------------------------------------------------------------------
+POSTER 1 — Pain: double-booked / forgotten shoots
+------------------------------------------------------------------------------
+HEADLINE: "DOUBLE-BOOKED" / "AGAIN?"
+CTA: "PLAN YOUR SEASON →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square marketing infographic poster for Framedrops (Indian
+photography SaaS). Palette deep purple #5B2E91, golden yellow #F5A623, alert red
+#E1352C, white; white-to-light-purple gradient with dotted texture; modern flat
+infographic with a 3D Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo (yellow camera, "Frame" black "drops" yellow, "Smart
+Photo Services").
+HEADLINE two-tone: "DOUBLE-BOOKED" black, "AGAIN?" purple.
+TOP-RIGHT: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) looking panicked, holding two cameras, a messy 3D
+calendar with clashing events behind him; stress doodles above.
+LEFT MID — three white speech-bubble cards each with a red X: "Two weddings, same
+date.", "Forgot the delivery deadline.", "Missed a client meeting."
+RED ALERT BAR: warning triangle + white text "Wedding season chaos costs bookings."
+THE SOLUTION block (right): purple tab "THE SOLUTION", white card with a 3D
+calendar-with-check icon + text "Plan every shoot, delivery and meeting on your
+Framedrops calendar — with notes and reminders so nothing slips."
+FEATURE ICON ROW (5 purple circles + labels): "SHOOTS" (camera), "DELIVERIES"
+(box), "MEETINGS" (people), "NOTES" (note), "REMINDERS" (bell).
+YELLOW CTA BAR: purple checkmark + bold "ONE CALENDAR. ZERO CLASHES." + icons
+"Organised", "On Time", "Stress-Free".
+PURPLE FOOTER: logo left, "POWERED BY FRAMEDROPS." white, yellow "Professional.
+Transparent. Reliable.", white CTA button "PLAN YOUR SEASON →", globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+------------------------------------------------------------------------------
+POSTER 2 — Solution showcase (calendar + reminders)
+------------------------------------------------------------------------------
+HEADLINE: "EVERY SHOOT." / "EVERY DEADLINE. ON TRACK."
+CTA: "STAY ON SCHEDULE →" · www.framedrops.in
+
+PROMPT:
+A high-quality 1:1 square Framedrops infographic poster. Palette purple #5B2E91,
+yellow #F5A623, red #E1352C, white; white-to-light-purple dotted gradient; 3D
+Pixar-style mascot + 3D icons.
+TOP-LEFT: Framedrops logo as defined.
+HEADLINE two-tone: "EVERY SHOOT." black, "EVERY DEADLINE. ON TRACK." purple.
+CENTER: a 3D Pixar-style cartoon photographer mascot (young Indian man, white
+hoodie + orange camera logo) relaxed and confident, pointing at a clean glowing
+3D calendar with neat colour-coded events and a friendly reminder-bell popping up.
+LEFT MID — white card "See shoots, deliveries and meetings at a glance. Add notes
+to any date. Get reminders so you never miss a thing."
+FEATURE ICON ROW (4 purple circles + labels): "MONTH VIEW" (calendar), "ADD NOTES"
+(note), "REMINDERS" (bell), "DASHBOARD WIDGET" (layout).
+YELLOW CTA BAR: purple checkmark + bold "RUN A BUSY SEASON, CALMLY." + icons
+"Planned", "Reminded", "In Control".
+PURPLE FOOTER as defined; white CTA button "STAY ON SCHEDULE →"; globe icon
+"www.framedrops.in".
+Sharp, clean, professional infographic, crisp legible text, balanced, high detail.
+
+==============================================================================
+CAPTION IDEAS
+- "Wedding season without the chaos. Plan every shoot, delivery and meeting in
+  one calendar with reminders. www.framedrops.in"
+- "Never double-book a date again."
+Hashtags: #PhotographyBusiness #WeddingSeason #IndianPhotographer #FramedropsApp
+#PhotographyWorkflow #StudioManagement
+==============================================================================
