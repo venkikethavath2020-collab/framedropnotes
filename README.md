@@ -21,7 +21,8 @@ checklists, decks, and product docs.
 ├── product/                — product / feature documentation
 │   ├── ADMIN.md            — admin portal capabilities + flows
 │   ├── ALBUM_PREVIEW.md    — client flipbook album preview (frontend-only)
-│   └── AGREEMENT_BUILDER.md — contract builder + OTP signing + server PDF
+│   ├── AGREEMENT_BUILDER.md — contract builder + OTP signing + server PDF
+│   └── CAMPAIGN.md         — Photography Day 2027 campaign + leaderboard (awards phase deferred)
 │
 └── decks/                  — investor / sales presentations
     ├── FrameDrops_Investor_Deck.pptx

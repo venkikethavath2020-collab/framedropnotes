@@ -245,3 +245,17 @@ User explicitly chose this. Aligns cost-to-value perfectly, no metering friction
 - Are photographers asking unprompted "how do I send these to my editor"?
 - What % of active photographers? Threshold: ~60% asking within 2-3 months → build. ~10% → don't.
 - Cheap signal collector: add a "Send to Editor — coming soon, drop your email" placeholder button on post-selection screen during Phase 1. Costs 1 hour, gives months of demand data.
+
+### Photography Day 2027 — announce winners / awards phase — DEFERRED
+
+**Status:** the campaign + leaderboard is **shipped** (see `product/CAMPAIGN.md`). The *announce-winners* half is **not built**. Decision (2026-06-15): let photographers use the platform and accumulate real data first; **revisit ~October 2026**. A live leaderboard against an empty dataset isn't meaningful.
+
+**Trigger to resume:** ~Oct 2026, OR when the leaderboard has a meaningful spread of active photographers with real clients/albums/payments.
+
+**Decisions already locked (do NOT re-ask when work resumes):**
+- **Snapshot + publish** — admin "Publish results" freezes final standings into a new `campaign_results` table on the day; public/dashboard/profile read from that snapshot, NOT the live `getWinners` query.
+- **Generated in-app** badges (SVG/CSS) + printable HTML certificate (browser print-to-PDF) — honors R2-only / no extra storage. Fallback if a real PDF is wanted: reuse `agreement-pdf.service.js` (pdfkit + R2).
+- **Four surfaces:** public Hall of Fame (landing flips countdown→winners), winner dashboard badge, public profile badge (slot into "About Photographer" dialog in `ClientGalleryView.vue`), admin awards manager.
+- **Build end-to-end** when resumed.
+
+**New tables:** `campaign_results` (frozen snapshot rows) + `campaign_awards` (award type / rank-tier / optional prize note per winner). Award types match the "What Awaits in 2027" landing cards (Featured Photographer / Achievement Badge / Early Adopter Honor / Community Spotlight). Tamper-proofing (crypto sealing) is out of scope — admins disqualify gamers manually.
